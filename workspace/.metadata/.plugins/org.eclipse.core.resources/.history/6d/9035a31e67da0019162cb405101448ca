@@ -1,0 +1,10 @@
+
+public class PG8 {
+	
+	public static void main (String[] args) {
+		System.setProperty("webdriver.chrome.driver","/Users/kwan/Documents/personal/OneDrive/capacitacion/Curso_Selenium/drivers/chromedriver");
+		String baseUrl = "http://demo.guru99.com/test/yahoo.html";
+		WebDriver driver = new ChromeDriver();
+	}
+
+}

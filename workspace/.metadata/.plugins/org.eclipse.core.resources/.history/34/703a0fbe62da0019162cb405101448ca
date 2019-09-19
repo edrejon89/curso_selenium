@@ -1,0 +1,11 @@
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+//Uploading Files
+public class PG9 {
+	public static void main(String[] args{
+	System.setProperty("webdriver.chrome.driver", "/Users/kwan/Documents/personal/OneDrive/capacitacion/Curso_Selenium/drivers/chromedriver");
+	String baseUrl = "http://demo.guru99.com/test/upload/";
+	WebDriver driver  = new ChromeDriver();
+	}
+}

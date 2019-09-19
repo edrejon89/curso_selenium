@@ -1,0 +1,15 @@
+
+public class Demo {
+	
+	
+	public static void main(String[] args) {
+		
+		//Selenium code
+		//Create driver object for chrome browser
+		WebDriver driver = new ChromeDriver();
+		
+		
+		
+	}
+
+}

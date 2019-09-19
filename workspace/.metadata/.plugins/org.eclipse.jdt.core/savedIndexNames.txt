@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/kwan/Documents/personal/OneDrive/capacitacion/Curso_Selenium/workspace/.metadata/.plugins/org.eclipse.jdt.core
+228495857.index
+1016596056.index
